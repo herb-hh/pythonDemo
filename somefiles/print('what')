@@ -1,0 +1,3 @@
+print('what')
+myName=raw_input()
+print(myName)
